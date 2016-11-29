@@ -1,4 +1,5 @@
 https://github.com/Przemes/testrepository.git
 Najlepiej ta linia.
-I coú jeszcze.
-03-11-2016
+I co≈õ jeszcze.
+03_11_2016
+29_11_2016
