@@ -1,6 +1,7 @@
-﻿https://github.com/Przemes/testrepository.git
+﻿﻿https://github.com/Przemes/testrepository.git
 Najlepiej ta linia.
-
+https://github.com/Przemes/testrepository.git
+I coś jeszcze.
 03_11_2016
 29_11_2016
 
