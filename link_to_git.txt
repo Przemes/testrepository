@@ -1,9 +1,10 @@
-﻿﻿
+﻿﻿﻿
 9876543210
+
 Najlepiej ta linia.
 https://github.com/Przemes/testrepository.git
 I coś jeszcze.
 03_11_2016
 29_11_2016
 
-0123456789
+9876543210
